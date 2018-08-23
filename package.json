@@ -7,9 +7,9 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/nord-vi-syntax",
+  "repository": "https://github.com/EnricoCruz/nord-vi-syntax.git",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">=1.0.0"
   }
 }
