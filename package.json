@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "description": "Dark blue BG, disctintive highlights",
   "keywords": [
-    "syntax", "nord", "vi", "enrico"
+    "syntax", "nord", "vi", "enrico",
     "theme"
   ],
   "repository": "https://github.com/atom/nord-vi-syntax",
